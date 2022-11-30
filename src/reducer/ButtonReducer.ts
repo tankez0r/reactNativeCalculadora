@@ -144,3 +144,5 @@ export const ButtonReducer = (
       return state;
   }
 };
+
+// TO-DO: Realizar optimizacion y quitar codigo que se repita (operaciones)
